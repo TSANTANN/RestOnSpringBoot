@@ -1,4 +1,4 @@
-package br.com.nalli;
+package br.com.nalli.controller;
 
 import org.springframework.web.bind.annotation.*;
 import br.com.nalli.converter.NumberConverter;
