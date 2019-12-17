@@ -14,8 +14,6 @@ public class ExceptionResponse implements Serializable {
         this.timestamp = timestamp;
         this.message = message;
         this.details = details;
-
-
     }
 
 
